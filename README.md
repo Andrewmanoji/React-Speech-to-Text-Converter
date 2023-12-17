@@ -1,5 +1,4 @@
 
-Demo => https://react-speech-text-converter.netlify.app/
 
 # Getting Started with Create React App
 
